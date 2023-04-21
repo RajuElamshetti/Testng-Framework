@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Raju">
+<test name="Report">
+<classes>
+<class name="march31.TestngFirst">
+</class>
+<class name="april1.FirstTestngclass">
+</class>
+<class name="april1.SecondTestng">
+</class>
+</classes>
+</test>
+</suite>
